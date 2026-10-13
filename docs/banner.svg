@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Readlist</title>
+  <desc id="desc">A starting point for a calmer reading list. Dart / Flutter / GetX</desc>
+  <defs>
+    <linearGradient id="bg"><stop stop-color="#101820"/><stop offset="1" stop-color="#302b23"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#e8c887" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <circle cx="55" cy="48" r="4" fill="#e8c887"/>
+    <text x="72" y="53" fill="#e8c887" font-size="13" font-weight="600" letter-spacing="2.2">FLUTTER / EARLY PROTOTYPE</text>
+    <text x="50" y="130" fill="#f1f7fa" font-size="54" font-weight="700" letter-spacing="-1.5">Readlist</text>
+    <text x="52" y="174" fill="#bbccd5" font-size="24">A starting point for a calmer reading list.</text>
+    <path d="M52 207H738" stroke="#e8c887" stroke-opacity=".22"/>
+    <text x="52" y="246" fill="#e8c887" font-size="14" letter-spacing="1">Dart / Flutter / GetX</text>
+  </g>
+  <g transform="translate(1008 150)">
+    <circle r="112" fill="#e8c887" fill-opacity=".035" stroke="#e8c887" stroke-opacity=".12"/>
+    <g fill="none" stroke="#e8c887" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M0-62C-36-82-68-70-92-60V64C-58 48-28 48 0 65C28 48 58 48 92 64V-60C68-70 36-82 0-62ZM0-62V65"/><path d="M-69-31L-24-25M-69-8L-24-2M-69 15L-24 21M24-25L69-31M24-2L69-8M24 21L69 15" opacity=".5"/></g>
+  </g>
+</svg>
